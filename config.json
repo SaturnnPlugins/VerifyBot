@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "guild_id": "YOUR_GUILD_ID",
+  "role_id": "ROLE_ID_TO_ASSIGN",
+  "issuer": "MyDiscordServer",
+  "bot_name": "AuthBot"
+}
